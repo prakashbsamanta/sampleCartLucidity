@@ -1,0 +1,98 @@
+# Node.js
+### Ignore node_modules directory
+node_modules
+
+### Ignore npm-debug.log files
+npm-debug.log
+
+### Ignore TestCafe output directories and files
+/artifacts
+/reports
+
+### Ignore TestCafe screenshots directory
+/screenshots
+
+### Ignore TestCafe videos directory
+/videos
+
+### Ignore TestCafe test run data directory
+/test-run-data
+
+### Ignore TestCafe configuration file
+.testcaferc.json
+
+### Ignore TestCafe test files
+*.test.js
+*.spec.js
+
+### Ignore TestCafe fixtures directory
+/fixtures
+
+### Ignore TestCafe data directory
+/data
+
+### Ignore TestCafe helper files
+*.helper.js
+
+### Ignore TestCafe page model files
+*.page.js
+
+### Ignore TestCafe hook files
+*.hook.js
+
+### Ignore TestCafe plugin files
+*.plugin.js
+
+### Ignore TestCafe reporter files
+*.reporter.js
+
+### Ignore TestCafe custom reporter files
+/custom-reporters
+
+### Ignore TestCafe browser provider files
+/browser-providers
+
+### Ignore TestCafe browser provider configuration files
+*.browser-provider.json
+
+### Ignore TestCafe custom command files
+/custom-commands
+
+### Ignore TestCafe custom assertion files
+/custom-assertions
+
+### Ignore TestCafe TypeScript configuration file
+tsconfig.json
+
+### Ignore TestCafe TypeScript declaration files
+*.d.ts
+
+### Ignore TestCafe TypeScript test files
+*.test.ts
+*.spec.ts
+
+### Ignore TestCafe TypeScript helper files
+*.helper.ts
+
+### Ignore TestCafe TypeScript page model files
+*.page.ts
+
+### Ignore TestCafe TypeScript hook files
+*.hook.ts
+
+### Ignore TestCafe TypeScript custom reporter files
+/custom-reporters-ts
+
+### Ignore TestCafe TypeScript custom command files
+/custom-commands-ts
+
+### Ignore TestCafe TypeScript custom assertion files
+/custom-assertions-ts
+
+### Ignore TestCafe TypeScript browser provider files
+/browser-providers-ts
+
+### Ignore TestCafe TypeScript browser provider configuration files
+*.browser-provider.ts
+
+### Ignore TestCafe TypeScript custom command files
